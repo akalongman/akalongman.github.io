@@ -1,7 +1,0 @@
-ვინც უკვე შეგაწუხათ ვებ-გვერდებზე თქვენს უნებართვოდ ბიტკოინის მაინინგმა და 
-შესაბამისად კომპიუტერის ლაგმა/გადახურებამ, დააყენეთ [AdblockPlus](https://adblockplus.org/) ექსთენშენი 
-ბრაუზერისთვის.
-https://venturebeat.com/2017/09/21/adblock-plus-can-now-protect-your-computer-from-being-hijacked-to-mine-cryptocurrency/
-
-დაყენების შემდეგ ექსთენშენის პარამეტრებში მიეცით `Add filter subscription` და აირჩიეთ `RuAdList+EasyList` 
-რათა დაბლოკოს რუსული და უკრაინული მაინერები. რასაც ძირითადად იყენებს ქართული ვებ საიტები.
