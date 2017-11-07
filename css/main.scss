@@ -3,19 +3,8 @@
 ---
 @charset "utf-8";
 
-@font-face {
-  font-family: 'norwester';
-  src: url('../fonts/norwester.eot');
-  src: url('../fonts/norwester.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/norwester.woff') format('woff'),
-    url('../fonts/norwester.ttf') format('truetype'),
-    url('../fonts/norwester.svg#norwesterregular') format('svg');
-}
-
-@import "../bower_components/bpg-arial/css/bpg-arial.min.css";
-
 // Our variables
-$base-font-family: 'BPG Arial', norwester, Helvetica, Arial, sans-serif;
+$base-font-family: 'Ubuntu', norwester, Helvetica, Arial, sans-serif;
 $base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
