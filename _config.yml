@@ -2,6 +2,12 @@ title: "Longish Blog"
 description: "Longish Blog Desc"
 baseurl: ""
 url: "https://akalongman.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: false
 
 paginate: 5
 gems:
