@@ -1,0 +1,18 @@
+title: LONGISHBLOG
+description: longish blog
+baseurl: ""
+url: "https://akalongman.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: false
+
+paginate: 5
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
