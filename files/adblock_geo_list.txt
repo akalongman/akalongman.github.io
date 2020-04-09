@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Version:
+! Title: GeoList
+! Last modified:
+! Expires: 1 days (update frequency)
+! Homepage: https://longman.me/
+! Licence: https://longman.me/licence.html
+!
+! Please report any unblocked adverts or problems
+! in the gist (https://gist.github.com/akalongman/91b45a1f4871afdfa79d83b0e3d05d1b)
+||open5.myvideo.ge/delivery/
+||sab.fast.ge/
+||banners.myads.ge/
+||static.my.ge/myauto/banners/
+||static.my.ge/mymarket/banners/
+||static.my.ge/myparts/banners/
+||static.my.ge/myhome/banners/
+||static.my.ge/myjobs/banners/
+||crystalbet.com/Pages/AdsRedirect.aspx
+||banners.amindi.ge/
