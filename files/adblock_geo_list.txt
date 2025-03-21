@@ -4,7 +4,7 @@
 ! Last modified:
 ! Expires: 1 days (update frequency)
 ! Homepage: https://longman.me/
-! Licence: https://longman.me/licence.html
+! Licence: https://longman.me/license.html
 !
 ! Please report any unblocked adverts or problems
 ! in the gist (https://gist.github.com/akalongman/91b45a1f4871afdfa79d83b0e3d05d1b)
@@ -18,3 +18,4 @@
 ||static.my.ge/myjobs/banners/
 ||crystalbet.com/Pages/AdsRedirect.aspx
 ||banners.amindi.ge/
+||adsline.ge/
