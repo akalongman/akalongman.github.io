@@ -20,3 +20,4 @@
 ||banners.amindi.ge/
 ||adsline.ge/
 ||mykadri.tv/preroll
+||mykadri.com/ads
