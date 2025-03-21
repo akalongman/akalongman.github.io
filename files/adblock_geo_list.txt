@@ -5,7 +5,7 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: https://longman.me/
 ! Licence: https://longman.me/license.html
-!
+! Docs: https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters
 ! Please report any unblocked adverts or problems
 ! in the gist (https://gist.github.com/akalongman/91b45a1f4871afdfa79d83b0e3d05d1b)
 ||open5.myvideo.ge/delivery/
