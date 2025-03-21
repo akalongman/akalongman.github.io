@@ -21,4 +21,4 @@
 ||adsline.ge/
 ||mykadri.tv/preroll
 ||hdd.mykadri.com/
-||adjaranet.bet/engine/modules/player/roll
+||adjaranet.bet/engine/modules/player/roll/
