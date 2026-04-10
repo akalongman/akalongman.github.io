@@ -88,7 +88,7 @@ p:first-of-type {
 
 <main markdown="1">
 
-{{ "{% capture cv %}" }}{{ "{% include cv.md %}" }}{{ "{% endcapture %}" }}
-{{ "{{ cv | markdownify }}" }}
+{% capture cv %}{% include cv.md %}{% endcapture %}
+{{ cv | markdownify }}
 
 </main>
