@@ -83,7 +83,7 @@ p:first-of-type {
 }
 </style>
 
-<main>
+<main markdown="1">
 
 # Avtandil Kikabidze
 **Principal Software Architect**<br>
